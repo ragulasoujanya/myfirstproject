@@ -1,4 +1,3 @@
-# myfirstproject
 ###################### Steps to run the Application ###############
 1. Build the application: mvn clean install
 2. Run the java Application
